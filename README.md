@@ -8,4 +8,3 @@ This application is designed for the Trailhead Project [Develop a Heroku App Tha
 <a href="https://heroku.com/deploy?template=https://github.com/khunanya888/node-js-sample">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
-
